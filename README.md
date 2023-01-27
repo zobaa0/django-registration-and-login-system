@@ -12,11 +12,6 @@ This web app has been developed using the popular Django framework and Bootstrap
 * Forgot Password – Users can easily retrieve their password if they forget it 
 * Admin Panel – admin can CRUD users
 
-![ScreenShot](https://user-images.githubusercontent.com/66206865/131695930-648342b0-010b-44b2-a419-15ad54d47869.png)
-
-## Tutorial
-[Here](https://dev.to/earthcomfy/series/14274) is a tutorial on how to build this project.
-
 ### Quick Start
 To get this project up and running locally on your computer follow the following steps.
 1. Set up a python virtual environment
